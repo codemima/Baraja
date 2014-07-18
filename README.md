@@ -9,6 +9,6 @@ Baraja 是一个jQuery插件,允许一种类似名片的时尚方式移动元素
 
 [查看在 Codrops 上的介绍文章](http://tympanus.net/codrops/?p=12050)
  
-[在线demo](http://tympanus.net/Development/Baraja/)(好像有问题)
+[在线demo](http://tympanus.net/Development/Baraja/)(好像有问题,因为访问了Google的CDN中的jQuery)
 
 Licensed under the MIT License
